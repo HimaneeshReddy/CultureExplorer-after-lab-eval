@@ -1,14 +1,4 @@
-/**
- * IndianFoodQuiz.jsx
- *
- * CLASS COMPONENT — converted from functional to demonstrate:
- *   - Class-based state via this.state and this.setState
- *   - Lifecycle methods: componentDidMount, componentDidUpdate, componentWillUnmount
- *   - Class methods bound to `this`
- *   - render() method returning JSX
- *
- * Functionally identical to the original — the quiz works exactly the same.
- */
+
 
 import React, { Component } from "react";
 
